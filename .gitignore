@@ -34,5 +34,4 @@ build/
 
 ###Terraform###
 # Exclude terraform temps files
-infra
 /infra/.terraform/
